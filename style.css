@@ -5,6 +5,20 @@ h1 {
 
 }
 
+h2 {
+  color: White;
+  font-size: 40px;
+
+
+}
+
+h3 {
+  color: White;
+  font-size: 30px;
+
+
+}
+
 body {
     background-image: url("keybackground.jpg");
 }
