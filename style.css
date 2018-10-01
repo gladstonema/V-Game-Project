@@ -19,6 +19,11 @@ h3 {
 
 }
 
+.topnav {
+    font-color: #8095d6;
+    overflow: hidden;
+}
+
 body {
     background-image: url("keybackground.jpg");
 }
