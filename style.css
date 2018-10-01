@@ -20,10 +20,16 @@ h3 {
 }
 
 .topnav {
-    font-color: #8095d6;
+    background-color: #0099ff;
     overflow: hidden;
+}
+
+.topnav a {
+    color: #ffff4d;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
 }
 
 body {
     background-image: url("keybackground.jpg");
-}
