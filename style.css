@@ -6,7 +6,7 @@ h1 {
 }
 
 h2 {
-  color: White;
+  color: Yellow;
   font-size: 40px;
 
 
@@ -33,3 +33,7 @@ h3 {
 
 body {
     background-image: url("keybackground.jpg");
+
+img {
+    float: left;
+}
