@@ -15,9 +15,14 @@ h2 {
 h3 {
   color: White;
   font-size: 30px;
+  position: absolute;
+  background-color: black;
+  filter: alpha(opacity=60);
+  <!--opacity: 0.6;-->
 
 
 }
+
 
 .topnav {
     background-color: #0099ff;
